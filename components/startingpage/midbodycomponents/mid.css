@@ -1,0 +1,62 @@
+
+
+.mid{
+    width: 100%;
+
+    height: auto;
+    background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)),url(../../startingpage/midbodycomponents/img/work.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    box-shadow: 5px 5px rgb(57, 155, 211);
+    
+    
+}
+ .content{
+     color: white;
+     font-size: 4vmin;
+ }
+
+
+ #container{
+     display: flex;
+     flex-wrap: wrap;
+     background: linear-gradient(rgba(0,0,0,0.9),rgba(0,0,0,0.8)),url('../midbodycomponents/img/companyimage.jpg');
+     background-size: 100% 100%;
+     margin-top: -1%;
+     
+
+ }
+ .container-item{
+font-size: 4vmin;
+width: 500px;
+margin: 4% 5%;
+color: white;
+padding: 2%;
+ }
+
+ .content-heading{
+     font-size: 10vmin;
+     font-weight: bold;
+     color: white;
+ }
+
+ #mid-content{
+margin: 0 auto;
+width: 100%;
+height: auto;
+
+
+ }
+ .mid-item-heading{
+text-align: center;
+font-weight: bold;
+position: relative;
+
+
+ }
+ .mid-item{
+     text-align: center;
+     padding: 2%;
+     color: rgba(0, 0, 255, 0.63);
+ }

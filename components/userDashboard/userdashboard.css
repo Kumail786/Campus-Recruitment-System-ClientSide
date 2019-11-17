@@ -1,0 +1,8 @@
+
+
+#background{
+    background: linear-gradient(rgba(0,0.5,0,0.9), rgba(0,0,0,0.2)),url('../startingpage/midbodycomponents/img/go.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: auto;
+}

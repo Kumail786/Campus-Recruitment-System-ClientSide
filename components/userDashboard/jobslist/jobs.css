@@ -1,0 +1,13 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+#data{
+    width : 340px;
+    border : 1px solid black;
+    margin-left : 2%;
+    margin-top :2%;
+    padding : 1% 1%;
+    display: inline-block
+}
